@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.todo;
 
+import com.example.demo.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
