@@ -16,12 +16,6 @@ public class Todo {
     public Todo() {
     }
 
-    public Todo(Long id, String title, String description) {
-        this.id = id;
-        this.title = title;
-        this.description = description;
-    }
-
     public Long getId() {
         return id;
     }
